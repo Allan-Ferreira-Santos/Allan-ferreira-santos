@@ -35,4 +35,6 @@
 
 <br>
 
-![Allan Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=Allan-Ferreira-Santos&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Ferreira-Santos)](https://github.com/Allan-Ferreira-Santos/github-readme-stats)
+
+![Allan Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=Allan-Ferreira-Santos&show_icons=true&theme=nord)
