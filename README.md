@@ -5,7 +5,8 @@
 
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-ferreira-349a3a17a/)](https:https://www.linkedin.com/in/allan-ferreira-349a3a17a/) [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-https://www.linkedin.com/in/allan-ferreira-349a3a17a/outlook&logoColor=white&link=mailto:allanferreira2001@hotnail.com)](mailto:allanferreira2001@hotnail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/allan-ferreira-santos/) 
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-https://www.linkedin.com/in/allan-ferreira-349a3a17a/outlook&logoColor=white&link=mailto:allanferreira2001@hotnail.com)](mailto:allanferreira2001@hotnail.com)
 
 <br>
 
